@@ -1,0 +1,7 @@
+{
+	"extends": "@nesvet",
+	"env": {
+		"node": true
+	},
+	"root": true
+}

@@ -3,11 +3,11 @@
 ## Installation
 
 ```sh
-$ npm install deps-list
+$ npm install dependencies-list
 ```
 
 Or
 
 ```sh
-$ yarn add deps-list
+$ yarn add dependencies-list
 ```

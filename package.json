@@ -1,5 +1,5 @@
 {
-	"name": "deps-list",
+	"name": "dependencies-list",
 	"version": "1.0.2",
 	"description": "Dependencies list builder",
 	"type": "module",

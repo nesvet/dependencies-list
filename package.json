@@ -1,29 +1,29 @@
 {
-	"name": "dependencies-list",
-	"version": "1.0.2",
-	"description": "Dependencies list builder",
-	"type": "module",
-	"main": "./lib/index.js",
-	"module": "./lib/index.js",
-	"packageManager": "yarn@1.22.22",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/nesvet/dependencies-list.git"
-	},
-	"keywords": [
-		"package",
-		"dependency",
-		"list"
-	],
-	"author": "Eugene Nesvetaev <dev@nesvet.dev> (https://nesvet.dev/)",
-	"license": "MIT",
-	"dependencies": {
-		"enhanced-resolve": "^5"
-	},
-	"devDependencies": {
-		"@nesvet/eslint-config": "^1"
-	}
+  "name": "dependencies-list",
+  "version": "1.0.2",
+  "description": "Dependencies list builder",
+  "type": "module",
+  "main": "./lib/index.js",
+  "module": "./lib/index.js",
+  "packageManager": "bun@1.1.9",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nesvet/dependencies-list.git"
+  },
+  "keywords": [
+    "package",
+    "dependency",
+    "list"
+  ],
+  "author": "Eugene Nesvetaev <dev@nesvet.dev> (https://nesvet.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "enhanced-resolve": "^5"
+  },
+  "devDependencies": {
+    "@nesvet/eslint-config": "^1"
+  }
 }

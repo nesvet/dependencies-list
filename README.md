@@ -9,5 +9,5 @@ $ npm install dependencies-list
 Or
 
 ```sh
-$ yarn add dependencies-list
+$ bun add dependencies-list
 ```
